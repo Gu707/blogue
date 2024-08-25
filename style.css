@@ -72,6 +72,11 @@ article img {
     width: 100%;
 }
 
+.posts {
+    background-color:#eeeeee ;
+    margin: 20px;
+}
+
 footer {
     text-align: center;
     background: #333;
