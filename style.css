@@ -76,6 +76,9 @@ article img {
     background-color:#eeeeee ;
     margin: 20px;
 }
+.posts:hover {
+    top:-2px;box-shadow:0 2px 2px #666
+}
 
 footer {
     text-align: center;
